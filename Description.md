@@ -4,7 +4,7 @@
 | ----------- | ----------- |
 | Version | 1.0 |
 | Created Date | 8/10/2021 |
-| Created By | <img src="https://xlinksupplier.herokuapp.com/img?id=piworks"/> Barış KARAMUSTAFA |
+| Created By | <img src="https://linksupplier.herokuapp.com/img?id=piworks"/> Barış KARAMUSTAFA |
 | Description | This document describes the user interface for the **User Management Screen** page. |
 
 
